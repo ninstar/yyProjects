@@ -9,7 +9,7 @@
 [link-discord]: https://discord.gg/wZGW8DZ
 [link-patreon]: https://www.patreon.com/ningamer
 
-<p align="center"><img alt="Logo" src="https://github.com/MarioSilvaGH/NinStar-yyProjects/raw/master/Assets/logo_monod.png" width="90%"></p>
+<p align="center"><img alt="Logo" src="https://i.imgur.com/YRwMUXr.png" width="90%"></p>
 
 A collection of small open source games and extensions for GameMaker Studio.
  
@@ -23,11 +23,14 @@ Additional functions that you can import into your projects:
 + **[audio_loop_sound](https://github.com/MarioSilvaGH/NinStar-yyProjects/tree/master/Current/Extensions/audio_loop_sound)** ``2.1.0`` - Play multiple audios using sample-based loop points.
 
 ## <div align="center">Usage</div>
-In order to compile and use these games/extensions you will need:
-> • *GameMaker: Studio 1.4* for ``.GMX`` (Project) and ``.GMEZ`` (Extension) files
-> • *GameMaker Studio 2* for ``.YYP`` (Project) and ``.YYMP`` (Extension/Package) files
+In order to compile you will need:
 
-*You can import .GMX and .GMEZ files from GameMaker: Studio 1.4 into GameMaker Studio 2, but you may have to make manual changes to work properly on GameMaker Studio 2.*
+|IDE				|Version			|															|
+|-------------------|-------------------|-----------------------------------------------------------|
+|GameMaker: Studio	|1.4.9999			|• For ``.GMX`` (Project) and ``.GMEZ`` (Extension) files.	|
+|GameMaker Studio 2	|2.3.0 or newer 	|• For ``.YYP`` (Project) and ``.YYMP`` (Extension) files.	|
+
+>  You can import ``.GMX`` and ``.GMEZ`` into GameMaker Studio 2, but you may have to make manual changes to work properly.
 
 ## <div align="center">Credits</div>
 
