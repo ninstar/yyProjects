@@ -1,45 +1,51 @@
-![badge-size]  [![Patreon][badge-patreon]][link-patreon] [![Discord][badge-discord]][link-discord] [![Blog][badge-blog]][link-blog]  
-<img alt="Logo" src="https://i.imgur.com/nXiXBTB.png" width="100%">
+<img alt="Card" src="https://i.imgur.com/yBw4T8N.png" width="100%">
 
-A collection of small open source games and extensions for GameMaker Studio.
- 
-## Games
-These are the current games available:
-+ **[Nin★Shooter][game-shooter]** ``0.1.0`` - Side-scrolling shooter with power-ups system
-+ **[Nin★Platformer][game-platformer]** ``0.1.0`` - A Super Mario Bros. styled platformer with pixel-estimated collision
+### About
 
-## Extensions
-Additional functions that you can import into your projects:
-+ **[audio_loop_sound][addon-audioloop]** ``2.1.0`` - Play multiple audios using sample-based loop points.
+A collection of extensions, utilities and projects designed and coded by Nin★ for GameMaker: Studio and GameMaker Studio 2.
 
-## Usage
-In order to compile you will need:
+### External links
+
+[![Discord][badge-discord]][link-discord] [![Patreon][badge-patreon]][link-patreon] [![Ko-fi][badge-kofi]][link-kofi]
+
+### Extensions
+
++ **[audio_loop_sound](https://github.com/ninstar/yyProjects/tree/master/Resources/audio_loop_sound)** - Play multiple audios using sample-based loop points.
+
+### Utilities
+
++ **[Project Cleaner](https://github.com/ninstar/yyProjects/tree/master/Resources/project-cleaner)** - Scan and remove unused assets and graphics from projects made with GameMaker Studio 2.
+
+### Projects
+
++ **[Nin★Shooter](https://github.com/ninstar/yyProjects/tree/master/Resources/ninstar-shooter)** - Side-scrolling shooter with power-ups system.
++ **[Nin★Platformer](https://github.com/ninstar/yyProjects/tree/master/Resources/ninstar-platformer)** - A Super Mario Bros. styled platformer with pixel-level collision.
+
+
+### File table
 
 |IDE				|Version			|															|
 |-------------------|-------------------|-----------------------------------------------------------|
-|GameMaker: Studio	|1.4.9999			|• For ``.GMX`` (Project) and ``.GMEZ`` (Extension) files.	|
-|GameMaker Studio 2	|2.2 or newer 	|• For ``.YYP`` (Project) and ``.YYMP`` (Extension) files.	|
+|GameMaker: Studio	|1.4.9999			|• For ``.gmx`` and ``.gmez`` files.	|
+|GameMaker Studio 2	|2.2 or newer 	|• For ``.yyp`` and ``.yymp`` files.	|
 
->  You can import ``.GMX`` and ``.GMEZ`` to GameMaker Studio 2, but you may have to make manual changes to work properly.
+>  You can import ``.gmx`` and ``.gmez`` into GameMaker Studio 2, but you may have to make manual changes before compiling your project.
+
+
 
 ## Credits
 
-**Games & Extensions**  
+**Code & Graphics**
 * Nin★ (NinStar)
 
 ## License
 
-All projects provided here are licensed under the ***MIT License***, refer to ``LICENSE.md`` (alternatively this [link](https://github.com/ninstar/yyProjects/blob/master/LICENSE.md)) for more information.
+All code provided here are licensed under the ***MIT License***.
 
-[game-shooter]: https://github.com/ninstar/yyProjects/blob/master/Games/NinStar-Shooter
-[game-platformer]: https://github.com/ninstar/yyProjects/blob/master/Games/NinStar-Platformer
-[addon-audioloop]: https://github.com/ninstar/yyProjects/blob/master/Extensions/audio_loop_sound
-
-[badge-size]: https://img.shields.io/github/repo-size/ninstar/yyProjects?color=black&label=Size&logo=github&logoColor=white&style=flat-square
-[badge-patreon]: https://img.shields.io/badge/dynamic/json?query=data.attributes.patron_count&suffix=%20patrons&url=https%3A%2F%2Fwww.patreon.com%2Fapi%2Fcampaigns%2F2890526&label=Patreon&logo=patreon&logoColor=white&color=%23e85b46&style=flat-square
-[badge-discord]: https://img.shields.io/discord/574569573458771968?color=7289da&label=Discord&logo=discord&logoColor=white&style=flat-square
-[badge-blog]: https://img.shields.io/static/v1?color=E87700&label=Blog&logo=blogger&logoColor=white&message=yyProjects&style=flat-square
-
-[link-blog]: https://ninstars.blogspot.com/p/ninstaryy.html
 [link-discord]: https://invite.gg/ninstar
-[link-patreon]: https://patreon.com/ninstar
+[link-kofi]: https://ko-fi.com/ninstar
+[link-patreon]: https://www.patreon.com/ninstar
+
+[badge-discord]: https://img.shields.io/discord/574569573458771968?color=5865F2&label=Discord&labelColor=00192A&logo=discord&logoColor=white&style=for-the-badge
+[badge-kofi]:https://img.shields.io/static/v1?label=Ko-fi&logo=kofi&labelColor=00192A&logoColor=white&message=Buy%20me%20a%20coffee&color=29ABE0&style=for-the-badge
+[badge-patreon]: https://img.shields.io/badge/dynamic/json?query=data.attributes.patron_count&suffix=%20patrons&url=https%3A%2F%2Fwww.patreon.com%2Fapi%2Fcampaigns%2F2890526&label=Patreon&labelColor=00192A&logo=patreon&logoColor=white&color=FF424D&style=for-the-badge
