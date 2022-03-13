@@ -1,8 +1,8 @@
-<img alt="Card" src="https://i.imgur.com/yBw4T8N.png" width="100%">
+<img alt="Banner" src="https://i.imgur.com/wW611Bj.png" width="100%">
 
 **yyProjects • Nin★Platformer**
 
-A Super Mario Bros. styled platformer with pixel-level collision.
+A Super Mario Bros. styled platformer.
 
 <img alt="Example" src="https://i.imgur.com/0yUgiOF.png" width="100%">
 

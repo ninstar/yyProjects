@@ -1,4 +1,4 @@
-<img alt="Card" src="https://i.imgur.com/yBw4T8N.png" width="100%">
+<img alt="Banner" src="https://i.imgur.com/wW611Bj.png" width="100%">
 
 **yyProjects • audio_loop_sound**
 

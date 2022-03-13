@@ -1,4 +1,4 @@
-<img alt="Card" src="https://i.imgur.com/yBw4T8N.png" width="100%">
+<img alt="Banner" src="https://i.imgur.com/wW611Bj.png" width="100%">
 
 **yyProjects • Project Cleaner**
 
@@ -21,4 +21,4 @@ Scan and remove unused assets and graphics from projects made with GameMaker Stu
 	+ If it is the same one you are using to run this script, I recommend that you run this script using another project.
 6. Wait until the process is finished, a log file will be generated.
 
-> Alternatively, you can use [this](https://drive.google.com/file/d/1VjIiQ5M5M4trpzSdJrKLIoAaseND1mrO/view?usp=sharing) compiled application.
+> Alternatively, you can use [this](https://drive.google.com/file/d/1VjIiQ5M5M4trpzSdJrKLIoAaseND1mrO/view?usp=sharing) pre-compiled binary.
