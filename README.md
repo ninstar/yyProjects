@@ -1,5 +1,7 @@
 [<img src="https://i.imgur.com/XcNHzfi.png" alt="yyProjects" width="100%">][home]
 
+# Overview
+
 A collection of extensions, utilities and games for GameMaker.
 
 ```bash
@@ -27,9 +29,7 @@ git clone https://github.com/ninstar/yyProjects.git
 + **[Nin★Shooter][shooter]** - Side-scrolling shooter with a power-up system.
 + **[Nin★Platformer][platformer]** - A Super Mario Bros. styled platformer.
 
----
-
-## Credits
+# Credits
 
 - **Code & Resources** - NinStar
 
