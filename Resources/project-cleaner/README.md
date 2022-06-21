@@ -1,24 +1,24 @@
-<img alt="Banner" src="https://i.imgur.com/wW611Bj.png" width="100%">
+<img src="https://i.imgur.com/XcNHzfi.png" alt="yyProjects" width="100%">
 
-**yyProjects • Project Cleaner**
+# Project Cleaner
 
 Scan and remove unused assets and graphics from projects made with GameMaker Studio 2.
 
-<img alt="Example" src="https://i.imgur.com/4dKT9B5.png" width="100%">
+<img src="https://i.imgur.com/4dKT9B5.png" alt="Preview" width="100%">
 
-### Usage
+> [**Pre-compiled binary**][binary] (Windows)
 
-> **Note:** This script won't work with projects made using GameMaker: Studio 1.4 or older versions of GameMaker Studio 2.
+## Usage
+
+> **Tested with IDE v2.3.2.560** - This script won't work with projects made using GameMaker: Studio 1.4 or older versions of GameMaker Studio 2.
 
 - Always make a backup of your project before using it.
- 
- Tested with IDE *v2.3.2.560*.
 
-1. Make sure that **sandbox** is disabled on your IDE.
-2. Copy and paste this [script](https://github.com/ninstar/yyProjects/blob/master/Resources/project-cleaner/Script.gml) in the creation code.
-3. Run the compiler.
-4. Select the ``.yyp`` file of the project you want to scan.
-	+ If it is the same one you are using to run this script, I recommend that you run this script using another project.
-6. Wait until the process is finished, a log file will be generated.
+1. Make sure that the **sandbox** is disabled on your IDE.
+2. Copy and paste this [script](https://github.com/ninstar/yyProjects/blob/master/Resources/project-cleaner/Script.gml) into the creation code.
+3. Run the project.
+4. Select the **.yyp** file of the project you want to scan.
+	+ If it is the same one you are using to run this script, I recommend that you run the script from another project.
+6. Wait until the process is done, a log should be generated.
 
-> Alternatively, you can use [this](https://drive.google.com/file/d/1VjIiQ5M5M4trpzSdJrKLIoAaseND1mrO/view?usp=sharing) pre-compiled binary.
+[binary]: https://drive.google.com/file/d/1VjIiQ5M5M4trpzSdJrKLIoAaseND1mrO/view?usp=sharing

@@ -1,25 +1,30 @@
-<img alt="Banner" src="https://i.imgur.com/wW611Bj.png" width="100%">
+<img src="https://i.imgur.com/XcNHzfi.png" alt="yyProjects" width="100%">
 
-**yyProjects • audio_loop_sound**
+# audio_loop_sound
 
-Play multiple audios using sample-based loop points.
+Play multiple audios using sampled loop points.
 
-<img alt="Example" src="https://i.imgur.com/4bEVcDP.png" width="100%">
+<img src="https://i.imgur.com/4bEVcDP.png" alt="Preview" width="100%">
 
-> [**Demo Download**](https://drive.google.com/file/d/1hFarbByEvvTMycph43RHLAMAcvYhxdF9/view?usp=sharing) • Windows
+> [**Demo**][demo] (Windows)
 
-### Usage
+## Usage
 
-**Syntax:**
+**Syntax**
 
-    audio_loop_sound(sound, sample_begin, sample_end, sample_rate, priority)
+```gml
+audio_loop_sound(sound, sample_begin, sample_end, sample_rate, priority)
+```
 
 - **GameMaker: Studio 1.4**
-	1. Open your project on your IDE.
-	2. In the resource tree, go to "Extensions", right click and then "Import extension".
-	3. Import the ``.gmez`` file, open it, go to "Import resources" and choose what files you want to import.
+	1. Open your project.
+	2. In the resource tree, go to **Extensions**, right click and then select **Import extension**.
+	3. Select the **.gmez** file, open it, go to **Import resources** and select what files you want to import.
 
 - **GameMaker Studio 2**
-	1. Open your project on your IDE.
-	2. Drag and drop the ``.yymp`` (or ``.gmez``) file to the IDE window and click "Yes".
+	1. Open your project.
+	2. Drag and drop the **.yymp** file to the main IDE window and select **Ye**.
 	3. Choose what files you want to import.
+
+
+[demo]: https://drive.google.com/file/d/1hFarbByEvvTMycph43RHLAMAcvYhxdF9/view?usp=sharing
