@@ -1,0 +1,7 @@
+# Local files
+*.nsi
+*.rtf
+
+# Configs
+Resources/ninstar-platformer/project.gmx/Configs/
+Resources/ninstar-shooter/project.gmx/Configs/
