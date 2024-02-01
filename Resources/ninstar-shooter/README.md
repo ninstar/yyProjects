@@ -1,10 +1,10 @@
-<img src="https://i.imgur.com/XcNHzfi.png" alt="yyProjects" width="100%">
+<img src="../../.github/banner.svg" alt="yyProjects" width="100%">
 
 # Nin★Shooter
 
 Side-scrolling shooter with a power-up system.
 
-<img src="https://i.imgur.com/KvXHPGY.png" alt="Preview" width="100%">
+<img src="./preview.png" alt="Preview" width="100%">
 
 ## Usage
 

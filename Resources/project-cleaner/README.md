@@ -1,10 +1,10 @@
-<img src="https://i.imgur.com/XcNHzfi.png" alt="yyProjects" width="100%">
+<img src="../../.github/banner.svg" alt="yyProjects" width="100%">
 
 # Project Cleaner
 
 Scan and remove unused assets and graphics from projects made with GameMaker Studio 2.
 
-<img src="https://i.imgur.com/4dKT9B5.png" alt="Preview" width="100%">
+<img src="./preview.png" alt="Preview" width="100%">
 
 > [**Pre-compiled binary**][binary] (Windows)
 
@@ -15,10 +15,10 @@ Scan and remove unused assets and graphics from projects made with GameMaker Stu
 - Always make a backup of your project before using it.
 
 1. Make sure that the **sandbox** is disabled on your IDE.
-2. Copy and paste this [script](https://github.com/ninstar/yyProjects/blob/master/Resources/project-cleaner/Script.gml) into the creation code.
+2. Copy and paste this [script](./Script.gml) into the creation code.
 3. Run the project.
 4. Select the **.yyp** file of the project you want to scan.
 	+ If it is the same one you are using to run this script, I recommend that you run the script from another project.
 6. Wait until the process is done, a log should be generated.
 
-[binary]: https://drive.google.com/file/d/1VjIiQ5M5M4trpzSdJrKLIoAaseND1mrO/view?usp=sharing
+[binary]: https://www.dropbox.com/scl/fi/eripzp3zgr0gw99ffzolr/Project-Cleaner.zip?rlkey=1kn9aigqwt0jy3i030srakjb3&dl=0
