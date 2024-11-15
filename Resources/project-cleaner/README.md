@@ -21,4 +21,4 @@ Scan and remove unused assets and graphics from projects made with GameMaker Stu
 	+ If it is the same one you are using to run this script, I recommend that you run the script from another project.
 6. Wait until the process is done, a log should be generated.
 
-[binary]: https://www.dropbox.com/scl/fi/eripzp3zgr0gw99ffzolr/Project-Cleaner.zip?rlkey=1kn9aigqwt0jy3i030srakjb3&dl=0
+[binary]: https://drive.google.com/file/d/1sATLdaEugtW-YbV3kAaaiOYTFHyCSJun/view?usp=sharing
