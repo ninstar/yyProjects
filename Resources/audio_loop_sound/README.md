@@ -27,4 +27,4 @@ audio_loop_sound(sound, sample_begin, sample_end, sample_rate, priority)
 	3. Choose what files you want to import.
 
 
-[demo]: https://www.dropbox.com/scl/fi/ia490m0uo741mhey453p7/audio_loop_sound-Demo.zip?rlkey=xdi9111xrgwn9tsl0bkrxn5b0&dl=0
+[demo]: https://drive.google.com/file/d/16u6xJGq7fLMjb6r4AfdFdkA00Q6o38VQ/view?usp=sharing
